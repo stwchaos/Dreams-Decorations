@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?d847bn');
+  src:  url('fonts/icomoon.eot?d847bn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?d847bn') format('truetype'),
+    url('fonts/icomoon.woff?d847bn') format('woff'),
+    url('fonts/icomoon.svg?d847bn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arco-de-casamento:before {
+  content: "\e907";
+}
+.icon-decoracao:before {
+  content: "\e908";
+}
+.icon-festa:before {
+  content: "\e909";
+}
+.icon-close:before {
+  content: "\e900";
+}
+.icon-facebook:before {
+  content: "\e901";
+}
+.icon-mail:before {
+  content: "\e902";
+}
+.icon-menu:before {
+  content: "\e903";
+}
+.icon-Vector-Stroke:before {
+  content: "\e904";
+}
+.icon-Vector-Stroke-1:before {
+  content: "\e905";
+}
+.icon-whatsapp:before {
+  content: "\e906";
+}
